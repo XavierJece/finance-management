@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "formulahendry.auto-rename-tag",
+    "aaron-bond.better-comments",
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight",
+    "vivaxy.vscode-conventional-commits",
+    "mikestead.dotenv",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "streetsidesoftware.code-spell-checker-portuguese",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "gruntfuggly.todo-tree"
+  ]
+}
