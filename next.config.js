@@ -9,6 +9,7 @@ const nextConfig = {
   images: {
     domains: [],
   },
+  pageExtensions: ['page.tsx', 'api.ts', 'api.tsx'],
 }
 
 module.exports = nextConfig
